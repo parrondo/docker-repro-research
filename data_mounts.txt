@@ -1,0 +1,2 @@
+/mnt/image_data
+HOME
